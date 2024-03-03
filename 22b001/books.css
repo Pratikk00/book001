@@ -1,0 +1,15 @@
+.box{
+    margin: 40px;
+    height: 350px;  
+   background-color: rgba(224, 224, 224, 0.897);
+}
+
+.img{
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+}
+.text{
+   
+    display: block;
+    margin: -150px 0px 0px 210px;
+}

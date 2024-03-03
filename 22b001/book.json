@@ -1,0 +1,16 @@
+[
+	{"book_no":1,"book_name":"soul","price":"$30","available":5} , 
+	{"book_no":2,"book_name":"the laenth of days","price":"$50","available":10 } ,
+	{"book_no":3,"book_name":"simiff's journey","price":"$150","available":4 },
+    {"book_no":4,"book_name":"A million to one","price":"$100","available":8 } ,
+    {"book_no":5,"book_name":"harry porter","price":"$200","available":15 } ,
+    {"book_no":6,"book_name":"shreemad bhagwat geeta","price":"$250","available":10 },
+    {"book_no":7,"book_name":"rugved ","price":"$300","available":5 },
+    {"book_no":8,"book_name":"samved","price":"$300","available":20 },
+    {"book_no":9,"book_name":"arthved","price":"$300","available":10},
+    {"book_no":10   ,"book_name":"yajurved","price":"$300","available":12 } 
+
+]
+
+	
+		
