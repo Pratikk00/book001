@@ -4,7 +4,7 @@
 }
 
 .main {
-    background-image: url('img/home.jpg');
+    background-image: url('/22b001/img/home.jpg');
     height: 750px;
     object-fit: contain;
     background-size: cover;
